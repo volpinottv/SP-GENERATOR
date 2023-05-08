@@ -1,2 +1,2 @@
 # SP-GENERATOR
-Spotify-Account-Generator
+Spotify-Account-Generator (KALI LINUX!)
